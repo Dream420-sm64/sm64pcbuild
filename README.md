@@ -39,6 +39,10 @@ No key binded for changing camera modes.
 
 We want for players to move around and explore Peach's Castle. Try out the new moves, and much more. It is basically just a "Test/Explore Save"
 
+# 3 Star Save? Also testing?
+
+This was for me to playtest levels, you can go ahead and delete.
+
 # When the Original Super Mario Experience build will come.
 
 First we want the feedback from you guys, then we will compile an another version of SM64, this time original experience and original moves.
