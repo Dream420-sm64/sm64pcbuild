@@ -11,9 +11,9 @@ Main PLUS of this build is that:
 This build works for every computer with Windows only, very sorry Mac users.
 
 Main MINUS of this build is that:
-• You cannot perform a BLJ (Backwards Long Jump)
+• For some keyboards BLJ cannot be performed, laptops can, idk whats the problem is
 
-We will make a special build with no patches. No new moves, no 60fps patch, just pure original Mario 64 experience.
+We will make a special build with no patches. No new moves, with 60fps patch, just pure original Mario 64 experience.
 
 # How to play this game?
 
